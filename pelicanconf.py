@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = '40423116'
-SITENAME = '40423116 的網誌'
-SITEURL = 'http://40423116.github.io/Blog/'
+AUTHOR = '40423126'
+SITENAME = '40423126 的網誌'
+SITEURL = 'http://40423126.github.io/blog/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False

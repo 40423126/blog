@@ -50,7 +50,8 @@ Author: kmol
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://cad-lab.github.io/manual"&gt;http://cad-lab.github.io/manual&lt;/a&gt;</t>
+&lt;a href="http://40423126.github.io/blog"&gt;http://cad-lab.github.io/manual&lt;/a&gt;
+</t>
 <t tx="amd.20160329162138.1"></t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
